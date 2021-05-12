@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ABC-BANKING_Application___/static/css/main.d791856e.chunk.css",
+    "main.js": "/ABC-BANKING_Application___/static/js/main.94663bf1.chunk.js",
+    "main.js.map": "/ABC-BANKING_Application___/static/js/main.94663bf1.chunk.js.map",
+    "runtime-main.js": "/ABC-BANKING_Application___/static/js/runtime-main.f582f075.js",
+    "runtime-main.js.map": "/ABC-BANKING_Application___/static/js/runtime-main.f582f075.js.map",
+    "static/css/2.74c02967.chunk.css": "/ABC-BANKING_Application___/static/css/2.74c02967.chunk.css",
+    "static/js/2.9af5b420.chunk.js": "/ABC-BANKING_Application___/static/js/2.9af5b420.chunk.js",
+    "static/js/2.9af5b420.chunk.js.map": "/ABC-BANKING_Application___/static/js/2.9af5b420.chunk.js.map",
+    "static/js/3.1f02421d.chunk.js": "/ABC-BANKING_Application___/static/js/3.1f02421d.chunk.js",
+    "static/js/3.1f02421d.chunk.js.map": "/ABC-BANKING_Application___/static/js/3.1f02421d.chunk.js.map",
+    "index.html": "/ABC-BANKING_Application___/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/ABC-BANKING_Application___/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.d791856e.chunk.css.map": "/ABC-BANKING_Application___/static/css/main.d791856e.chunk.css.map",
+    "static/js/2.9af5b420.chunk.js.LICENSE.txt": "/ABC-BANKING_Application___/static/js/2.9af5b420.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f582f075.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.9af5b420.chunk.js",
+    "static/css/main.d791856e.chunk.css",
+    "static/js/main.94663bf1.chunk.js"
+  ]
+}
